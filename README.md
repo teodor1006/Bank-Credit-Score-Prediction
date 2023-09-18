@@ -1,7 +1,7 @@
 # Bank-Credit-Score-Prediction
 
 This project's primary objective is to forecast individuals' bank credit scores by employing a range of machine learning classification algorithms. 
-These algorithms include Logistic Regression, DecisionTreeClassifier, and RandomForestClassifier. The project workflow encompasses several key steps:
+These algorithms include Logistic Regression, DecisionTreeClassifier and RandomForestClassifier. The project workflow encompasses several key steps:
 
 1. Exploratory Data Analysis: Initial analysis of the dataset to gain insights and understanding of the data's characteristics.
 
@@ -14,5 +14,7 @@ These algorithms include Logistic Regression, DecisionTreeClassifier, and Random
 5. Model Evaluation: Assessment of model performance through various metrics such as confusion matrices, classification reports, and ROC curves. These metrics provide a comprehensive view of how well the models are performing.
 
 6. Predictions: Utilization of the trained models to make predictions on new data, allowing for the assessment of their real-world applicability.
+
+->>The RandomForestClassifier achieved the best test accuracy (88.95%).
 
 As part of future work, we plan to create a Graphical User Interface (GUI) to facilitate the easy prediction of bank credit scores. This GUI will make the model more accessible and user-friendly, potentially benefiting both financial institutions and individuals seeking credit scores.
