@@ -3,7 +3,7 @@
 This project's primary objective is to forecast individuals' bank credit scores by employing a range of machine learning classification algorithms. 
 These algorithms include Logistic Regression, DecisionTreeClassifier, and RandomForestClassifier. The project workflow encompasses several key steps:
 
-1.Exploratory Data Analysis: Initial analysis of the dataset to gain insights and understanding of the data's characteristics.
+1. Exploratory Data Analysis: Initial analysis of the dataset to gain insights and understanding of the data's characteristics.
 
 2. Data Preprocessing: This involves preparing the data for modeling. Categorical variables are encoded using LabelEncoding to make them suitable for machine learning algorithms.
 
