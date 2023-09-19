@@ -17,7 +17,7 @@ These algorithms include Logistic Regression, DecisionTreeClassifier and RandomF
 
 ->>The RandomForestClassifier achieved the best test accuracy (88.95%).
 
-As part of future work, we plan to create a Graphical User Interface (GUI) to facilitate the easy prediction of bank credit scores. This GUI will make the model more accessible and user-friendly, potentially benefiting both financial institutions and individuals seeking credit scores.
+A Graphical User Interface (GUI) to facilitate the easy prediction of bank credit scores was created. This GUI will make the model more accessible and user-friendly, potentially benefiting both financial institutions and individuals seeking credit scores.
 
 ![Feature Importance](FeatureImportance.png)
 ![ROC Curve](ROC%20Curve.png)
